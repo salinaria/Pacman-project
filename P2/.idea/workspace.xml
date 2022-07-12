@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bda8c707-d1d0-48d8-8894-5bebe8efdc27" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="28sTvnOyMoE6weoNNV2gKEcvSa1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bda8c707-d1d0-48d8-8894-5bebe8efdc27" name="Default Changelist" comment="" />
+      <created>1652004526456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652004526456</updated>
+      <workItem from="1652004529830" duration="1092000" />
+      <workItem from="1652012323840" duration="2264000" />
+      <workItem from="1652017194010" duration="888000" />
+      <workItem from="1652024320128" duration="3075000" />
+      <workItem from="1652034381919" duration="1631000" />
+      <workItem from="1653883797108" duration="2576000" />
+      <workItem from="1653895017818" duration="1538000" />
+      <workItem from="1654061332544" duration="1294000" />
+      <workItem from="1654542500880" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1654542501185">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="465" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1654542501185" />
+    <state x="510" y="52" key="refactoring.ChangeSignatureDialog" timestamp="1652017733952">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="510" y="52" key="refactoring.ChangeSignatureDialog/0.0.1536.816@0.0.1536.816" timestamp="1652017733952" />
+  </component>
+</project>
